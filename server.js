@@ -7,7 +7,7 @@ var methodOverride = require("method-override");
 
 // starts the express app
 var app = express();
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 3000;
 
 // serves static content for the app from the "public" directory 
 app.use(express.static("public"));
@@ -32,3 +32,4 @@ app.use("/", routes);
 app.listen(port, function() {
   console.log("App listening on PORT: " + port);
 });
+
