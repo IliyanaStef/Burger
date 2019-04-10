@@ -9,4 +9,4 @@ Whenever a user submits a burger's name, the app will display the burger on the 
 Each burger in the waiting area also has a button to eat it. When the user clicks it, the burger will move to the right side of the page.
 Burgers on the right side of the page have a delete button to remove it from view.
 
-Heroku link: https://blooming-beach-58404.herokuapp.com/
+Heroku link: https://tranquil-springs-24568.herokuapp.com/
